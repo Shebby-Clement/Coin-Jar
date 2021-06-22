@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GlobalKinetic.CoinJar.Core\GlobalKinetic.CoinJar.Core.csproj" />
+    <ProjectReference Include="..\GlobalKinetic.CoinJar.Data\GlobalKinetic.CoinJar.Data.csproj" />
+  </ItemGroup>
+
+</Project>
